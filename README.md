@@ -145,3 +145,4 @@ When I started my computer journey I started learning how to do typing fast (_to
 8. **firmware** : This contains the firmware for the keyboard to be used <br>
 9. **Assets_3d_printing*** : All the assets needed for 3D printing <br>
 10. **Assets_Kicad** : All the assets needed for the schematics and pcb design including the 3d models <br>
+11. **Zinepage.png** : has the A5 Design for the fallout zine <br>
