@@ -11,7 +11,9 @@
 <br>
 
 <p align="center">
-<img width="420" height="590" alt="Screenshot 2026-04-22 at 10 25 56 AM" src="https://github.com/user-attachments/assets/4250e28b-d99a-45e1-a103-a8f8aac46268" />
+<img width="475" height="673" alt="Screenshot 2026-04-24 at 2 32 22 AM" src="https://github.com/user-attachments/assets/31bce5ec-4a6b-48a8-b2fe-bfb89ea2f251" />
+
+
 </p>
 
 <br>
@@ -129,3 +131,17 @@ When I started my computer journey I started learning how to do typing fast (_to
 
 <br>
 
+# **files**
+
+<br>
+
+1. **Readme.md** : explanation of all the project <br>
+2. **BOM.md** : Bill of materials used in the project <br>
+3. **mech_Keyboard.kicad_pcb** : The PCB design used (Kicad file) <br>
+4. **mech_Keyboard.kicad_sch** : The schematics used (Kicad file) <br>
+5. **mech_keyboard.kicad_pro** : The main kicad file <br>
+6. **mech_keyboard-backups** : The folder with the backups of these files <br> 
+7. **Archive** : Contains all the fabrication files used in the pcb manufacturing process <br>
+8. **firmware** : This contains the firmware for the keyboard to be used <br>
+9. **Assets_3d_printing*** : All the assets needed for 3D printing <br>
+10. **Assets_Kicad** : All the assets needed for the schematics and pcb design including the 3d models <br>

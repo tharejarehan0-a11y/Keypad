@@ -13,6 +13,10 @@
 | 7 | Stackskb.com | MX Cherry Keyswitches (Akko Botany) | ₹1,200.00 | 45 | [Order](https://stackskb.com/store/akko-botany-switch-pack-of-45/) |
 | 8 | Curiosity Caps | MX Cherry Keycaps (Manga Theme PBT) | ₹2,500.00 | 130 | [Order](http://curiositycaps.in/products/manga-theme-cherry-pbt-keycaps?variant=50211931226393) |
 | 9 | Printing Legion India *(via HackClub)* | Case | $1.30 | 1 | [@speedhawks on Hackclub](https://hackclub.com) |
+| 10 | OnlyScrews | M2*6mm screws | ₹105 | 25 | [Order](https://onlyscrews.in/products/m2-x-6mm-phillips-round-head-laptop-screw?variant=49369266192697) |
+| 11 | OnlyScrews | M2*8mm screws | ₹110 | 25 | [Order](https://onlyscrews.in/products/m2-x-8mm-phillips-round-head-laptop-screw-1?variant=49693360423225) |
+| 12 | OnlyScrews | M2 nuts | ₹105 | 25 | [Order](https://onlyscrews.in/products/m2-nyloc-nuts-ss304-dia-2mm?variant=50164298645817) |
+| 13 | OnlyScrews | Shipping & Tax | ₹126 | N/A | [Order](https://onlyscrews.in/)
 
 ---
 
