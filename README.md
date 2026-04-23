@@ -131,3 +131,17 @@ When I started my computer journey I started learning how to do typing fast (_to
 
 <br>
 
+# **files**
+
+<br>
+
+**Readme.md** : explanation of all the project
+**BOM.md** : Bill of materials used in the project
+**mech_Keyboard.kicad_pcb** : The PCB design used (Kicad file)
+**mech_Keyboard.kicad_sch** : The schematics used (Kicad file)
+**mech_keyboard.kicad_pro** : The main kicad file
+**mech_keyboard-backups** : The folder with the backups of these files
+**Archive** : Contains all the fabrication files used in the pcb manufacturing process
+**firmware** : This contains the firmware for the keyboard to be used
+**Assets_3d_printing*** : All the assets needed for 3D printing
+**Assets_Kicad** : All the assets needed for the schematics and pcb design including the 3d models
