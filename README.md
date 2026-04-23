@@ -18,7 +18,7 @@
 
 <br>
 
-**Story Behind it**
+# **Story Behind it/Motivation**
 When I started my computer journey I started learning how to do typing fast (_touch typing_). I was made to type only alphabets in the whole course some or the other way for me there was like no use of other keys similarly for many people other keys are just useless when they want to learn typing or practice it **and it is specifically designed for it**
 
 # **Key takeaways**
