@@ -136,7 +136,7 @@ When I started my computer journey I started learning how to do typing fast (_to
 <br>
 
 1. **Readme.md** : explanation of all the project <br>
-2. **BOM.md** : Bill of materials used in the project <br>
+2. **BOM.csv** : Bill of materials used in the project shipping not included <br>
 3. **mech_Keyboard.kicad_pcb** : The PCB design used (Kicad file) <br>
 4. **mech_Keyboard.kicad_sch** : The schematics used (Kicad file) <br>
 5. **mech_keyboard.kicad_pro** : The main kicad file <br>
