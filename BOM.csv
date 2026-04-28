@@ -1,14 +1,16 @@
 #,Company,Part,Price,Quantity,Link
-1,PCBWay,PCB,1,$69.5,https://www.pcbway.com/QuickOrderOnline.aspx
-2,Robocraze,Raspberry Pi Pico,,,https://robocraze.com/products/raspberry-pi-pico?_pos=2&_sid=2e551ee8b&_ss=r
-3,Robocraze,Male Headers (40x1 pin 2.54mm pitch),,,https://robocraze.com/products/40x1-pin-2-54mm-pitch-male-berg-strip?_pos=11&_sid=5a10e633c&_ss=r
-4,robu.in,1N4148 Diodes,,,https://robu.in/product/1n4148-t50a-onsemi-100v-1v10ma-4ns-200ma-do-35-switching-diodes-rohs
-5,KTRON,SMD 0603 Capacitors 100nF,,,https://www.ktron.in/product/100nf-50v-104-mlcc-0603/?v=2978dbfa7f71
-6,robu.in,SMD 0603 Capacitors 10uF,,,https://robu.in/product/10uf-10000nf-50v-capacitor-0603-smd-package-pack-of-5
-7,Stackskb.com,MX Cherry Keyswitches,,,https://stackskb.com/store/akko-botany-switch-pack-of-45/
-8,Curiosity Caps,MX Cherry Keycaps ,,,http://curiositycaps.in/products/manga-theme-cherry-pbt-keycaps?variant=50211931226393
-9,Printing Legion India (via HackClub),Case,,,https://hackclub.com
-10,OnlyScrews,M2x6mm Screws,,,https://onlyscrews.in/products/m2-x-6mm-phillips-round-head-laptop-screw?variant=49369266192697
-11,OnlyScrews,M2x8mm Screws,,,https://onlyscrews.in/products/m2-x-8mm-phillips-round-head-laptop-screw-1?variant=49693360423225
-12,OnlyScrews,M2 Nuts,,,https://onlyscrews.in/products/m2-nyloc-nuts-ss304-dia-2mm?variant=50164298645817
-13,OnlyScrews,Shipping & Tax,,,https://onlyscrews.in/
+1,PCBWay,PCB,$69.5,1,https://www.pcbway.com/QuickOrderOnline.aspx
+2,Robocraze,Raspberry Pi Pico,1,₹400,https://robocraze.com/products/raspberry-pi-pico?_pos=2&_sid=2e551ee8b&_ss=r
+3,Robocraze,Male Headers (40x1 pin 2.54mm pitch),2,₹20,https://robocraze.com/products/40x1-pin-2-54mm-pitch-male-berg-strip?_pos=11&_sid=5a10e633c&_ss=r
+4,robu.in,1N4148 Diodes,30,₹180,https://robu.in/product/1n4148-t50a-onsemi-100v-1v10ma-4ns-200ma-do-35-switching-diodes-rohs
+5,KTRON,SMD 0603 Capacitors 100nF,25,₹20,https://www.ktron.in/product/100nf-50v-104-mlcc-0603/?v=2978dbfa7f71
+6,robu.in,SMD 0603 Capacitors 10uF,5,₹20,https://robu.in/product/10uf-10000nf-50v-capacitor-0603-smd-package-pack-of-5
+7,Stackskb.com,MX Cherry Keyswitches,45,₹1200,https://stackskb.com/store/akko-botany-switch-pack-of-45/
+8,Curiosity Caps,MX Cherry Keycaps,130+,₹2500,http://curiositycaps.in/products/manga-theme-cherry-pbt-keycaps?variant=50211931226393
+9,Printing Legion India (via HackClub),Case,1,$2,https://hackclub.com
+10,OnlyScrews,M2x6mm Screws,25,₹105,https://onlyscrews.in/products/m2-x-6mm-phillips-round-head-laptop-screw?variant=49369266192697
+11,OnlyScrews,M2x8mm Screws,25,₹110,https://onlyscrews.in/products/m2-x-8mm-phillips-round-head-laptop-screw-1?variant=49693360423225
+12,OnlyScrews,M2 Nuts,25,₹150,https://onlyscrews.in/products/m2-nyloc-nuts-ss304-dia-2mm?variant=50164298645817
+
+
+Shipping not included
