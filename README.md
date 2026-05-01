@@ -137,12 +137,9 @@ When I started my computer journey I started learning how to do typing fast (_to
 
 1. **Readme.md** : explanation of all the project <br>
 2. **BOM.csv** : Bill of materials used in the project shipping not included <br>
-3. **mech_Keyboard.kicad_pcb** : The PCB design used (Kicad file) <br>
-4. **mech_Keyboard.kicad_sch** : The schematics used (Kicad file) <br>
-5. **mech_keyboard.kicad_pro** : The main kicad file <br>
-6. **mech_keyboard-backups** : The folder with the backups of these files <br> 
-7. **Archive** : Contains all the fabrication files used in the pcb manufacturing process <br>
+3. **Kicad** : All the Kicad related files <br> 
+7. **Gerbers** : Contains all the fabrication files used in the pcb manufacturing process <br>
 8. **firmware** : This contains the firmware for the keyboard to be used <br>
-9. **Assets_3d_printing*** : All the assets needed for 3D printing <br>
+9. **3D_Models*** : All the assets needed for 3D printing <br>
 10. **Assets_Kicad** : All the assets needed for the schematics and pcb design including the 3d models <br>
 11. **Zinepage.png** : has the A5 Design for the fallout zine <br>
