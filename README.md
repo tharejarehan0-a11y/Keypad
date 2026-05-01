@@ -1,7 +1,8 @@
 # Keypad
 <br>
 
-<img width="1536" height="824" alt="ChatGPT Image Apr 22, 2026, 09_27_56 AM" src="https://github.com/user-attachments/assets/ca69ca86-906f-423e-9ba5-332e965acd4e" style="background-color:black"/>
+<img width="1240" height="804" alt="Screenshot_2026-05-01_at_10 56 01_PM-removebg-preview (2)" src="https://github.com/user-attachments/assets/2e30ff73-b03b-4fc5-889c-f9c31e0387cf" />
+
 
 <br>
 
@@ -11,7 +12,8 @@
 <br>
 
 <p align="center">
-<img width="475" height="673" alt="Screenshot 2026-04-24 at 2 32 22 AM" src="https://github.com/user-attachments/assets/31bce5ec-4a6b-48a8-b2fe-bfb89ea2f251" />
+<img width="454" height="648" alt="Zinepage" src="https://github.com/user-attachments/assets/7f1e332a-c304-4c4f-ab27-46c7012f4f7b" />
+
 
 
 </p>
