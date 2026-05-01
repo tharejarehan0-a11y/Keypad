@@ -112,10 +112,12 @@ When I started my computer journey I started learning how to do typing fast (_to
 <br>
 
 # **Assets**
-1. **Assets_3d_printing** - it has all the files required for 3d printing
+1. **3D_Models** - it has all the files required for 3d printing
 2. **Assets_Kicad** - it has all the kicad resources you will require 3d_models, footprints and symbols
 3. **firmware** - it has all the files required for the firmware of the keyboard to program the microcontroller
 4. **PCB.step** - it is the 3d model of the pcb
+5. **Gerbers** - all the gerber files
+6. **Kicad** - all the kicad files
 
 <br>
 
@@ -128,12 +130,13 @@ When I started my computer journey I started learning how to do typing fast (_to
 5. **DO-35 Resistors**
 6. **SMD C_0603_1608Metric Capacitors**
 7. **SW_Push Button**
-8. **USB_A to USB_B wire**
-9. **M2 2mm*6mm screws**
+8. **M2 2mm*6mm screws**
 
 <br>
 
 # **BOM**
+**Sidenote for reviewers**
+_(There is a chance that ktron.in does not accept the hcb money if it happens then i will pay my self)_
 
 | #  | Company                              | Part                                 | Quantity |   Price  | Link                                                                                              |
 |----|--------------------------------------|--------------------------------------|-------|----------|---------------------------------------------------------------------------------------------------|
@@ -149,7 +152,9 @@ When I started my computer journey I started learning how to do typing fast (_to
 | 10 | OnlyScrews                           | M2x6mm Screws                        | 25    | ₹105     | https://onlyscrews.in/products/m2-x-6mm-phillips-round-head-laptop-screw?variant=49369266192697   |
 | 11 | OnlyScrews                           | M2x8mm Screws                        | 25    | ₹110     | https://onlyscrews.in/products/m2-x-8mm-phillips-round-head-laptop-screw-1?variant=49693360423225 |
 | 12 | OnlyScrews                           | M2 Nuts                              | 25    | ₹150     | https://onlyscrews.in/products/m2-nyloc-nuts-ss304-dia-2mm?variant=50164298645817                 |
-| 13 | Shipping&Taxes                       | N/A                                  | All   | ₹500     | N/A                                                                                               |
+| 13 | Stackskb.com                         | Stabilizers                          | 4+1   | ₹1595    | https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/                |
+| 14 | Robocraze                            | SW_Push Buttons                      | 25    | ₹25      | https://robocraze.com/products/4-pin-push-button-tactile-switch-12x12x15mm-pack-of-5?_pos=6&_sid=3446358db&_ss=r   |
+| 15 | Shipping&Taxes                       | N/A                                  | All   | ₹700     | N/A                                                                                               |
 
 
 <br>
