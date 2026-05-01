@@ -1,7 +1,8 @@
 # Keypad
 <br>
 
-<img width="1536" height="824" alt="ChatGPT Image Apr 22, 2026, 09_27_56 AM" src="https://github.com/user-attachments/assets/ca69ca86-906f-423e-9ba5-332e965acd4e" style="background-color:black"/>
+<img width="1240" height="804" alt="Screenshot_2026-05-01_at_10 56 01_PM-removebg-preview (2)" src="https://github.com/user-attachments/assets/2e30ff73-b03b-4fc5-889c-f9c31e0387cf" />
+
 
 <br>
 
@@ -11,7 +12,8 @@
 <br>
 
 <p align="center">
-<img width="475" height="673" alt="Screenshot 2026-04-24 at 2 32 22 AM" src="https://github.com/user-attachments/assets/31bce5ec-4a6b-48a8-b2fe-bfb89ea2f251" />
+<img width="454" height="648" alt="Zinepage" src="https://github.com/user-attachments/assets/7f1e332a-c304-4c4f-ab27-46c7012f4f7b" />
+
 
 
 </p>
@@ -137,12 +139,9 @@ When I started my computer journey I started learning how to do typing fast (_to
 
 1. **Readme.md** : explanation of all the project <br>
 2. **BOM.csv** : Bill of materials used in the project shipping not included <br>
-3. **mech_Keyboard.kicad_pcb** : The PCB design used (Kicad file) <br>
-4. **mech_Keyboard.kicad_sch** : The schematics used (Kicad file) <br>
-5. **mech_keyboard.kicad_pro** : The main kicad file <br>
-6. **mech_keyboard-backups** : The folder with the backups of these files <br> 
-7. **Archive** : Contains all the fabrication files used in the pcb manufacturing process <br>
+3. **Kicad** : All the Kicad related files <br> 
+7. **Gerbers** : Contains all the fabrication files used in the pcb manufacturing process <br>
 8. **firmware** : This contains the firmware for the keyboard to be used <br>
-9. **Assets_3d_printing*** : All the assets needed for 3D printing <br>
+9. **3D_Models*** : All the assets needed for 3D printing <br>
 10. **Assets_Kicad** : All the assets needed for the schematics and pcb design including the 3d models <br>
 11. **Zinepage.png** : has the A5 Design for the fallout zine <br>
