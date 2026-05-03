@@ -140,7 +140,7 @@ _(There is a chance that ktron.in does not accept the hcb money if it happens th
 
 | #  | Company                              | Part                                 | Quantity |   Price  | Link                                                                                              |
 |----|--------------------------------------|--------------------------------------|-------|----------|---------------------------------------------------------------------------------------------------|
-| 1  | PCBWay                               | PCB                                  | 1     | 69.5$    | https://www.pcbway.com/QuickOrderOnline.aspx                                                      |
+| 1  | JLCPCB                               | PCB                                  | 1     | 12.25$    | https://www.pcbway.com/QuickOrderOnline.aspx                                                      |
 | 2  | Robocraze                            | Raspberry Pi Pico                    | 1     | ₹400     | https://robocraze.com/products/raspberry-pi-pico?_pos=2&_sid=2e551ee8b&_ss=r                      |
 | 3  | Robocraze                            | Male Headers (40x1 pin 2.54mm pitch) | 2     | ₹20      | https://robocraze.com/products/40x1-pin-2-54mm-pitch-male-berg-strip?_pos=11&_sid=5a10e633c&_ss=r |
 | 4  | robu.in                              | 1N4148 Diodes                        | 30    | ₹180     | https://robu.in/product/1n4148-t50a-onsemi-100v-1v10ma-4ns-200ma-do-35-switching-diodes-rohs      |
@@ -154,7 +154,7 @@ _(There is a chance that ktron.in does not accept the hcb money if it happens th
 | 12 | OnlyScrews                           | M2 Nuts                              | 25    | ₹150     | https://onlyscrews.in/products/m2-nyloc-nuts-ss304-dia-2mm?variant=50164298645817                 |
 | 13 | Stackskb.com                         | Stabilizers                          | 4+1   | ₹1595    | https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/                |
 | 14 | Robocraze                            | SW_Push Buttons                      | 25    | ₹25      | https://robocraze.com/products/4-pin-push-button-tactile-switch-12x12x15mm-pack-of-5?_pos=6&_sid=3446358db&_ss=r   |
-| 15 | Shipping&Taxes                       | N/A                                  | All   | ₹700     | N/A                                                                                               |
+| 15 | Shipping&Taxes                       | N/A                                  | All   | ₹700+14$     | N/A                                                                                               |
 
 
 <br>
