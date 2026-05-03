@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,RaspberryPi_Pico_Common_Unspecified,1,RaspberryPi_Pico,
+"C1, C3",0603,2,100nF,
+C2,0603,1,10µF,
+"D11, D12, D13, D14, D15, D21, D22, D23, D24, D25, D29, D3, D30, D31, D32, D33, D4, D43, D45, D47, D49, D5, D56, D57, D59, D6, D61, D63, D7",Diode_DO-35,29,~,
+"S11, S12, S13, S14, S15, S21, S22, S23, S24, S25, S29, S3, S30, S31, S32, S33, S4, S43, S45, S47, S49, S5, S57, S59, S6, S61, S63, S7",MX_PCB_1.00u,28,~,
+S56,MX_PCB_7.00u,1,~,
+SW1,SW_PUSH_6mm_H5mm,1,SW_Push,
