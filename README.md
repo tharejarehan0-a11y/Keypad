@@ -164,10 +164,9 @@ _(There is a chance that ktron.in does not accept the hcb money if it happens th
 <br>
 
 1. **Readme.md** : explanation of all the project <br>
-2. **BOM.csv** : Bill of materials used in the project shipping not included <br>
-3. **Kicad** : All the Kicad related files <br> 
-7. **Gerbers** : Contains all the fabrication files used in the pcb manufacturing process <br>
-8. **firmware** : This contains the firmware for the keyboard to be used <br>
-9. **3D_Models*** : All the assets needed for 3D printing <br>
-10. **Assets_Kicad** : All the assets needed for the schematics and pcb design including the 3d models <br>
-11. **Zinepage.png** : has the A5 Design for the fallout zine <br>
+2. **Kicad** : All the Kicad related files <br> 
+3. **Gerbers** : Contains all the fabrication files used in the pcb manufacturing process <br>
+4. **firmware** : This contains the firmware for the keyboard to be used <br>
+5. **3D_Models*** : All the assets needed for 3D printing <br>
+6. **Assets_Kicad** : All the assets needed for the schematics and pcb design including the 3d models <br>
+7. **Zinepage.png** : has the A5 Design for the fallout zine <br>
