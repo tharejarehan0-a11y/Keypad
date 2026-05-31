@@ -88,14 +88,16 @@ When I started my computer journey I started learning how to do typing fast (_to
 
 **then go to https://swillkb.com/ and paste the either the raw data of your design under the raw data tab or paste this onto the website u will get a dxf file which you can also take from the files here**
 
-# shapr3D 
+**Note: I have made some changes in the sketch according to my design you can find those sketches in 3D_Models >> DXF**
+
+# Onshape
+
+<br>
+<img width="1470" height="956" alt="Screenshot 2026-05-31 at 7 18 23 PM" src="https://github.com/user-attachments/assets/b1be7a4e-60a0-46f4-abc3-4b3ca23702d0" />
 
 <br>
 
-<img width="1470" height="956" alt="Screenshot 2026-04-22 at 1 04 12 AM" src="https://github.com/user-attachments/assets/98172e3a-b482-4300-97a1-6d5ec6d7a977" />
-<br>
-
-**if you want to see the full design . You can go to https://app.shapr3d.com/p/c7965ff8-f383-481d-b931-e097212123b2 . This will lead you to the browser version of the shapr3D where you can download the files if you have the upgraded versions or you can see the through out the design if you don't have it you can take all the stl files from the Assets_3d_printing folder tho and then also do whatever you wanna do with them**
+**Done everything in Onshape you can see all the files related to it go to 3D_Models >> STEP and if you want to see the sketches that will be in 3D_Models >> DXF**
 
 <br>
 
@@ -108,16 +110,6 @@ When I started my computer journey I started learning how to do typing fast (_to
 <br>
 
 **The firmware is written in Circuit python and has KMK library used to program the keyboard the keymap array is used to assign the keys to the intersection and the rows and columns are denoted by keyboard.row_pins and keyboard.col_pins and we have a name function which loads the code onto the keyboard.**
-
-<br>
-
-# **Assets**
-1. **3D_Models** - it has all the files required for 3d printing
-2. **Assets_Kicad** - it has all the kicad resources you will require 3d_models, footprints and symbols
-3. **firmware** - it has all the files required for the firmware of the keyboard to program the microcontroller
-4. **PCB.step** - it is the 3d model of the pcb
-5. **Gerbers** - all the gerber files
-6. **Kicad** - all the kicad files
 
 <br>
 
@@ -154,7 +146,7 @@ _(There is a chance that ktron.in does not accept the hcb money if it happens th
 | 12 | OnlyScrews                           | M2 Nuts                              | 25    | ₹150     | https://onlyscrews.in/products/m2-nyloc-nuts-ss304-dia-2mm?variant=50164298645817                 |
 | 13 | Stackskb.com                         | Stabilizers                          | 4+1   | ₹1595    | https://stackskb.com/store/durock-clear-screw-in-stabilizers-v2/                |
 | 14 | Robocraze                            | SW_Push Buttons                      | 25    | ₹25      | https://robocraze.com/products/4-pin-push-button-tactile-switch-12x12x15mm-pack-of-5?_pos=6&_sid=3446358db&_ss=r   |
-| 15 | Shipping&Taxes                       | N/A                                  | All   | ₹700+14$     | N/A                                                                                               |
+| 15 | Shipping&Taxes                       | N/A                                  | All   | ₹700+39$ | N/A                                                                                               |
 
 
 <br>
@@ -165,8 +157,8 @@ _(There is a chance that ktron.in does not accept the hcb money if it happens th
 
 1. **Readme.md** : explanation of all the project <br>
 2. **Kicad** : All the Kicad related files <br> 
-3. **Gerbers** : Contains all the fabrication files used in the pcb manufacturing process <br>
+3. **Production Files** : Contains all the fabrication files used in the pcb manufacturing process <br>
 4. **firmware** : This contains the firmware for the keyboard to be used <br>
-5. **3D_Models*** : All the assets needed for 3D printing <br>
-6. **Assets_Kicad** : All the assets needed for the schematics and pcb design including the 3d models <br>
+5. **3D_Models*** : All the assets needed for 3D printing and all the sketches and 3D Models <br>
+6. **Assets_Kicad** : All the assets needed for the schematics and pcb design including the 3d models, footprints, schematic symbols <br>
 7. **Zinepage.png** : has the A5 Design for the fallout zine <br>
