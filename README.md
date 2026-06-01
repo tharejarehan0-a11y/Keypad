@@ -11,10 +11,7 @@
 <br>
 
 <p align="center">
-<img width="454" height="648" alt="Zinepage" src="https://github.com/user-attachments/assets/7f1e332a-c304-4c4f-ab27-46c7012f4f7b" />
-
-
-
+<img width="375" height="535" alt="Screenshot 2026-06-01 at 6 14 18 PM" src="https://github.com/user-attachments/assets/ab6c6ed9-fa49-4da3-a143-458cf8fb3cc0" />
 </p>
 
 <br>
