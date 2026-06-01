@@ -93,7 +93,7 @@ When I started my computer journey I started learning how to do typing fast (_to
 
 <br>
 
-**Done everything in Onshape you can see all the files related to it go to 3D_Models >> STEP and if you want to see the sketches that will be in 3D_Models >> DXF**
+**Done everything in Onshape you can see all the files related to it go to 3D_Models >> STEP and if you want to see the sketches that will be in 3D_Models >> DXF and the link to onshape is https://cad.onshape.com/documents/34256bf3e585af5c7248ec84/w/d1b125939af1c93ac5709ce3/e/966044b3990b03ffc888e75f?renderMode=0&uiState=6a1d9bf18f13d1741420cc5c this you can have a look at it**
 
 <br>
 
