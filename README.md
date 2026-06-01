@@ -1,8 +1,7 @@
 # Keypad
 <br>
 
-<img width="1240" height="804" alt="Screenshot_2026-05-01_at_10 56 01_PM-removebg-preview (2)" src="https://github.com/user-attachments/assets/2e30ff73-b03b-4fc5-889c-f9c31e0387cf" />
-
+<img width="1920" height="1080" alt="Untitled" src="https://github.com/user-attachments/assets/36f379a3-ba6e-4277-bd14-10f8e23d1cef" />
 
 <br>
 
